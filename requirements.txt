@@ -1,0 +1,9 @@
+stardist
+tensorflow
+csbdeep
+numpy
+gdown
+scikit-image
+torch
+torchvision
+
